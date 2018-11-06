@@ -27,6 +27,7 @@ const ALIASES = [
     "Ribs Grow Back",
     "Scrapped Iron Man Origin Story",
     "Billionaire Who Solicits Volunteers",
+    "An Immature Man Child",
 ];
 
 function get_name() {
